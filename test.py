@@ -1,4 +1,4 @@
-def find_sum(nums: list) -> int:
+def find_sum_of_nums(nums: list) -> int:
     result = 0
 
     for num in nums:
@@ -7,7 +7,7 @@ def find_sum(nums: list) -> int:
     return num
 
 
-def find_sqaure_sum(nums: list) -> int:
+def find_sqaure_sum_of_nums(nums: list) -> int:
     result = 0
 
     for num in nums:
